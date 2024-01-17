@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hnetweb.nbzdwss78.tk'
+const BAREURL = 'https://ba.usapp.cloudns.biz'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
